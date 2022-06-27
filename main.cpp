@@ -1,3 +1,9 @@
+/*
+ * 作者：冯甚尧
+ * 邮箱：fengshenyao@foxmail.com
+ * 简介：这是一个学习Git的代码
+ * */
+
 #include <iostream>
 
 

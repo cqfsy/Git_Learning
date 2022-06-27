@@ -15,5 +15,6 @@ int main() {
     for(int i = 0; i < 3; ++i){
         count();
     }
+    std::cout << "结束了" << std::endl;
     return 0;
 }
